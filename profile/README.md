@@ -11,7 +11,7 @@ To follow along, ask questions or give feedback you can join the Bitcoin Design 
 
 ## Resources
 
-### BDK Manager
+### [BDK Manager](https://github.com/bdgwallet/bdkmanager-swift)
 This package makes it easier to work with [bdk-swift](https://github.com/bitcoindevkit/bdk-swift) on iOS by providing good defaults, simple setup and modern SwiftUI compatible convenience functions and variables.  
 
 More to come.
