@@ -4,8 +4,8 @@ This is a collection of repositiories created to make bitcoin wallet development
 
 The overall goal is to make a forkable bitcoin wallet template for iOS based on: 
 - [The Bitcoin Design Guide](https://bitcoin.design/guide/)
-- [The Bitcoin Development Kit]()
-- [The Ligthning Development Kit]()
+- [The Bitcoin Dev Kit](https://github.com/bitcoindevkit)
+- [The Ligthning Dev Kit](https://github.com/lightningdevkit)
 
 To follow along, ask questions or give feedback you can join the Bitcoin Design Community [Slack group](https://bitcoindesign.slack.com/join/shared_invite/zt-10sxfovaq-isViijl4RThKRs_TsAQnuA#/shared-invite/email), and the #bdgwallet channel.
 
